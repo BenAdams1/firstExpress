@@ -1,0 +1,11 @@
+{
+  "name": "first-express-project",
+  "version": "My first Express server with Wyncode",
+  "description": "My first Express server with Wyncode",
+  "main": "index.js",
+  "repository": "Ben",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
