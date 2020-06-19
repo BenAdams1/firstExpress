@@ -1,6 +1,6 @@
 {
   "name": "first-express-project",
-  "version": "My first Express server with Wyncode",
+  "version": "1.0.0",
   "description": "My first Express server with Wyncode",
   "main": "index.js",
   "repository": "Ben",
